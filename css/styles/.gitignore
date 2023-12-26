@@ -1,0 +1,12 @@
+# Exclude Visual Studio Code settings
+.vscode/
+
+# Exclude macOS system files
+.DS_Store
+
+# Exclude binary files and executables
+/bin/
+/obj/
+
+# Exclude log files
+*.log
